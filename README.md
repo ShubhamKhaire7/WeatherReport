@@ -105,7 +105,7 @@ A sophisticated, real-time weather monitoring and analytics dashboard built with
 ### Installation
 1. Clone this repository
    ```bash
-   git clone [https://github.com/yourusername/WeatherReportLatest.git](https://github.com/yourusername/WeatherReportLatest.git)
+   git clone [https://github.com/ShubhamKhaire7/WeatherReportLatest.git](https://github.com/ShubhamKhaire7/WeatherReportLatest.git)
 
 1. Open WeatherReport.pbix in Power BI Desktop
 2. Configure data source credentials if prompted
