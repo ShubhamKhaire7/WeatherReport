@@ -138,7 +138,7 @@ WeatherReport/
     └── templates/          # Data import templates
 ```
 
-📈 Future Enhancements
+### 📈 Future Enhancements
  Add more cities and regions
  Implement weather alerts and notifications
  Add historical data analysis
@@ -147,17 +147,26 @@ WeatherReport/
  Implement user authentication
  Add multi-language support
  Create a dark/light theme toggle
-🛠 Troubleshooting
+ 
+### 🛠 Troubleshooting
 Data not loading: Check your internet connection and API key
 Visuals not displaying: Ensure all required Power BI updates are installed
 Performance issues: Try reducing the data volume or optimizing measures
-🤝 Contributing
-Contributions are welcome! Please follow these steps:
 
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 👤 Author & Contact
+
+**Built by Shubham Khaire**
+
+- 📧 Email: shubhamkhaire00@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/shubham-khaire07
+- 🐙 GitHub: https://github.com/ShubhamKhaire7
+
+### 🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to:
+- Open an issue for bug reports
+- Submit pull requests for improvements
+- Suggest new features or enhancements
+
+### 📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
